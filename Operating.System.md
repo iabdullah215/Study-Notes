@@ -1,3 +1,5 @@
+# Operating System Notes
+
 * A program that acts as an intermediary between a user of a computer and the computer hardware.
 * Computer System can be divided into four components.
 	1. Hardware ***CPU, Memory, I/O Devices***
